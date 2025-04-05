@@ -4,7 +4,7 @@
 
 ### 📌 Contatos:
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/biancaaglio/) 
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancaaglio/) 
 
 ![Texto alternativo da imagem](https://i.pinimg.com/originals/c9/18/69/c91869eaf8d12fb097ab060e891eb10a.gif)
 
