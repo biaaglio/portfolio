@@ -26,14 +26,15 @@
 + Criativa
 
 ### 🎓Formação Acadêmica:
-+ Ensino Médio Completo- SESI
++ Ensino Médio Completo- SESI- 2024
 + Curso Técnico- Desenvolvimento de Sistemas- 2023 à 2024- 1200 horas
     + Fundamentos De Programação Orientada A Objeto (FPOO) 
     + Hardware E Redes (HARE) 
     + Linguagem De Marcação (LIMA) 
     + Programação Web Back-end 1 (PWBE1) 
     + Programação Web Front-end (PWFE) 
-    + Sistemas Operacionais (SOP) 
+    + Sistemas Operacionais (SOP)
++ Faculdade- Análise e Desenvolvimento de Sistemas- Fatec Presidente Prudente- 1º termo
 
 ### 📚Cursos Avulsos:
 + Soluções Integradas com IOT- 40 horas- 2023- SENAI
